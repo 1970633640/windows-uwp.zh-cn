@@ -119,7 +119,7 @@ Entity Framework (EF) 是一个对象关系映射程序，可用于使用特定�
 
 ![SQLite 程序包](images/sqlite-package-v2.png)
 
-<a id="use-data" />
+<a id="use-data" ></a>
 
 ## <a name="add-and-retrieve-data-in-a-sqlite-database"></a>在 SQLite 数据库中添加和检索数据
 
