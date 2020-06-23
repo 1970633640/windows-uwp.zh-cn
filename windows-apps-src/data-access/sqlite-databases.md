@@ -119,7 +119,7 @@ Entity Framework (EF) 是一个对象关系映射程序，可用于使用特定�
 
 ![SQLite 程序包](images/sqlite-package-v2.png)
 
-<a id="use-data" />
+<a id="use-data" ></a>
 
 ## <a name="add-and-retrieve-data-in-a-sqlite-database"></a>在 SQLite 数据库中添加和检索数据
 
@@ -170,7 +170,7 @@ using Microsoft.Data.Sqlite;
 using System.Collections.Generic;
 ```
 
-<a id="initialize" />
+<a id="initialize"></a>
 
 ### <a name="initialize-the-sqlite-database"></a>初始化 SQLite 数据库
 
@@ -214,7 +214,7 @@ public App()
 }
 ```
 
-<a id="insert" />
+<a id="insert"></a>
 
 ### <a name="insert-data-into-the-sqlite-database"></a>将数据插入到 SQLite 数据库
 
@@ -244,7 +244,7 @@ public static void AddData(string inputText)
 }
 ```
 
-<a id="retrieve" />
+<a id="retrieve"></a>
 
 ### <a name="retrieve-data-from-the-sqlite-database"></a>从 SQLite 数据库检索数据
 
